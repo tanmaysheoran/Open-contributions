@@ -1,4 +1,5 @@
-#Deep Learning Topics
+# Deep Learning Topics
+```
 Logistic Regression
 Backpropagation
 Hyperparameter Tuning
@@ -11,9 +12,11 @@ Transfer Learning
 Convolutional Neural Networks
 Recurrent Neural Network
 Generative Adversarial Networks(Basics)
-
-#Machine Learning Topics
+```
+# Machine Learning Topics
+```
 Linear Regression
 Logistic Regression
 Decision Trees
 K-Nearest Neighbors (K-NN)
+```
